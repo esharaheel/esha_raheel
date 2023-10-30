@@ -1,19 +1,24 @@
 {
   "files": {
     "main.css": "/esha_raheel/static/css/main.576cca1f.css",
-    "main.js": "/esha_raheel/static/js/main.51936662.js",
+    "main.js": "/esha_raheel/static/js/main.c5f338d6.js",
     "static/js/787.9fb0a617.chunk.js": "/esha_raheel/static/js/787.9fb0a617.chunk.js",
-    "static/media/demo.png": "/esha_raheel/static/media/demo.195a000573a9e1919839.png",
+    "static/media/TWOT.jpg": "/esha_raheel/static/media/TWOT.0d60b1c87abbe5677613.jpg",
+    "static/media/e_banking.jpg": "/esha_raheel/static/media/e_banking.22a5cb2918e9b450cc27.jpg",
+    "static/media/e_restaurant.png": "/esha_raheel/static/media/e_restaurant.aaea61feb832bc2aefae.png",
+    "static/media/E_Commerce.jpg": "/esha_raheel/static/media/E_Commerce.82c2844c062d4db0cb30.jpg",
+    "static/media/signup.jpg": "/esha_raheel/static/media/signup.1335b398baa86bf3b9af.jpg",
+    "static/media/smart_surveillance.png": "/esha_raheel/static/media/smart_surveillance.5f708ec00e19b1830aa7.png",
     "static/media/graphic.png": "/esha_raheel/static/media/graphic.7a1e1a3faab9d9f5a9ea.png",
     "static/media/hero_image.png": "/esha_raheel/static/media/hero_image.691246549961d076b4ce.png",
     "static/media/ux_ui.png": "/esha_raheel/static/media/ux_ui.a6917fccf02e67a9e18f.png",
     "index.html": "/esha_raheel/index.html",
     "main.576cca1f.css.map": "/esha_raheel/static/css/main.576cca1f.css.map",
-    "main.51936662.js.map": "/esha_raheel/static/js/main.51936662.js.map",
+    "main.c5f338d6.js.map": "/esha_raheel/static/js/main.c5f338d6.js.map",
     "787.9fb0a617.chunk.js.map": "/esha_raheel/static/js/787.9fb0a617.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.576cca1f.css",
-    "static/js/main.51936662.js"
+    "static/js/main.c5f338d6.js"
   ]
 }
