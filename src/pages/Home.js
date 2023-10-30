@@ -22,7 +22,7 @@ function Home() {
                 captivating graphics and craft intuitive user experiences. Let's
                 collaborate on bringing your ideas to life!
               </p>
-              <button className="btn btn-primary">Hire Me</button>
+              {/* <button className="btn btn-primary">Hire Me</button> */}
             </div>
           </div>
           <div className="col-6">

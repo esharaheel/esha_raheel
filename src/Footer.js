@@ -16,7 +16,7 @@ function Footer() {
             <h3>Connect with Me</h3>
             <div className="social-icons">
               <a
-                href="https://github.com/yourusername"
+                // href="https://github.com/esharaheel"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-3"
@@ -32,7 +32,7 @@ function Footer() {
                 <FontAwesomeIcon icon={fab.faLinkedin} />
               </a>
               <a
-                href="https://twitter.com/yourusername"
+                href="https://discord.com/channels/@me/1167842398429253795"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-3"

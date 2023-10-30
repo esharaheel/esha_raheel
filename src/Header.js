@@ -3,7 +3,7 @@ function Header() {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="/">
           Esha Raheel
         </a>
         <button
@@ -34,20 +34,26 @@ function Header() {
               </NavLink>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
-                Services
-              </a>
+              <NavLink to="/services">
+                <a class="nav-link" href="#">
+                  Services
+                </a>
+              </NavLink>
+            </li>
+            {/* <li class="nav-item">
+              <NavLink to="/contact_me">
+                <a class="nav-link" href="#">
+                  Contact
+                </a>
+              </NavLink>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
-                Contact
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">
-                About
-              </a>
-            </li>
+              <NavLink to="/contact_me">
+                <a class="nav-link" href="#">
+                  About
+                </a>
+              </NavLink>
+            </li> */}
           </ul>
         </div>
       </nav>
