@@ -1,0 +1,78 @@
+body {
+  background-color: #f1f1f1;
+  font-family: "Montserrat", sans-serif;
+}
+.blue-color {
+  color: rgb(18, 18, 97) !important;
+}
+.navbar {
+  height: 75px;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(18, 18, 97) !important;
+}
+.nav-item {
+  font-size: 18px;
+}
+.name {
+  font-size: 70px;
+}
+.default-margin {
+  margin: 150px 50px 150px 100px;
+}
+.hero-image {
+  width: 777px;
+  height: 650px;
+}
+.design-icon {
+  background-color: #f1f1f1 !important;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.design-icon .image {
+  width: 60px;
+  height: 60px;
+}
+.design-icon:hover {
+  background-color: #d4cccc !important;
+}
+.footer {
+  background-color: #021017;
+  color: white;
+}
+.social-icons a {
+  font-size: 24px;
+}
+.project-cover {
+  width: 300px;
+  height: 180px;
+}
+.hover a{
+    text-decoration: none;
+    color: black;
+}
+.hover:hover {
+  background-color: #d4cccc !important;
+  cursor: pointer;
+}
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  h5 {
+    font-size: 15px;
+  }
+  .hero-image {
+    width: 500px;
+    height: 300px;
+  }
+}
